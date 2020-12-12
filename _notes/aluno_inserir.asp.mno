@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Reg_alunos_inserir" value="name:Cod_curso;datatype:3,name:Nome;datatype:200" />
+	<infoitem key="UD_Reg_escolher_curso" value="name:Cod_curso;datatype:3,name:Nome;datatype:200" />
+</info>
